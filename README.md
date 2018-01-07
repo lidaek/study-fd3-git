@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lidaek/study-fd3-git.svg?branch=master)](https://travis-ci.org/lidaek/study-fd3-git)
+
 # 깃 스터디
 ## h2
 
