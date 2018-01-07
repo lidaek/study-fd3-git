@@ -1,3 +1,4 @@
+//abc를 출력한다.
 function a() {
-  console.log('잉잉');
+  alert('abc');
 }
